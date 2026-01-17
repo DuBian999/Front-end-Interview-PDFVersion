@@ -1,5 +1,7 @@
 # - 汇总了一些常见的前端面试题，问题答案由AI生成
 
+
+目前md版本的文件只有0-5，后面的文件目录请在[问题解答-PDF格式](https://github.com/DuBian999/Front-end-Interview-PDFVersion/tree/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94-PDF%E6%A0%BC%E5%BC%8F)下载后查看
 | 目录名称                                   | 点击跳转                     |
 | :----------------------------------------- | :--------------------------- |
 | 0-面试法则                                 | [0-面试法则](https://github.com/DuBian999/Front-end-Interview-PDFVersion/blob/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94-MD%E6%A0%BC%E5%BC%8F/0-%E9%9D%A2%E8%AF%95%E6%B3%95%E5%88%99.md)               |
