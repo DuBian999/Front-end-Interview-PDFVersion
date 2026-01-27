@@ -1,4 +1,4 @@
-# 1. Vue3核心源码精读
+## 1. Vue3核心源码精读
 Vue3 源码采用 Monorepo 架构（基于pnpm管理），按功能拆分为多个独立包（ vue 、
 @vue/reactivity 、 @vue/compiler-core 等），核心亮点如下：
 * 核心架构：分为响应式系统（ reactivity ）、编译系统（ compiler ）、运行时系统（ runtime ）三大模块，解耦性更强；
@@ -7,7 +7,7 @@ Vue3 源码采用 Monorepo 架构（基于pnpm管理），按功能拆分为多�
 * 组合式API： setup 函数作为入口， ref （原始类型响应式）、 reactive （对象类型响应）、 computed （惰性计算）、 watch （依赖监听）等API封装了响应式核心逻辑；
 * 编译优化：引入 PatchFlags （补丁标记）和 StaticNode （静态节点），编译阶段标记动态节点，运行时只更新标记节点，提升渲染性能。
 
-# 2. Vuex核心源码精读
+## 2. Vuex核心源码精读
 
 Vuex 是 Vue 专属的集中式状态管理库，源码简洁且核心逻辑清晰（以 Vuex4 为例，适配 Vue3）：
 
